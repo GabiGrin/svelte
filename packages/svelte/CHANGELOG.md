@@ -1,5 +1,11 @@
 # svelte
 
+## 5.0.0-next.55
+
+### Patch Changes
+
+- fix: prevent infinite loop when writing to store using shorthand ([#10477](https://github.com/sveltejs/svelte/pull/10477))
+
 ## 5.0.0-next.54
 
 ### Patch Changes
